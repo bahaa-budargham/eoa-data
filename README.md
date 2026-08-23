@@ -16,8 +16,8 @@ This repository contains the datasets, figures, and supplementary materials for 
 
 If you use any data from this repository, please cite the relevant EOA paper:
 
-- **EOA Program, Part 0:** [Link]
-- **EOA-43 (Part I):** [Link]
+- **EOA Program, Part 0:** [Link](https://github.com/bahaa-budargham/eoa-part0-paper)
+- **EOA-43 (Part I):** [Link](https://github.com/bahaa-budargham/eoa-part1-paper)
 
 ## License
 
