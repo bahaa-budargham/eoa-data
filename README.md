@@ -2,15 +2,40 @@
 
 This repository contains the datasets, figures, and supplementary materials for the EOA Program.
 
+---
+
 ## Contents
 
 | File/Directory | Description |
 | :--- | :--- |
 | `data/encodings/` | Letter-name input strings for five encodings (English primary, English alternative, Arabic, Hebrew, Greek). |
-| `figures/` | Figures from EOA papers. |
+| `figures/` | Figures from EOA papers and tool outputs. |
 | `notebooks/` | Colab notebooks for benchmarks and experiments. |
 | `LEADERBOARD.md` | Tracks submissions for open theoretical questions. |
 | `EOA_logo.png` | EOA program logo. |
+
+---
+
+## Figures
+
+| Figure | Description |
+| :--- | :--- |
+| `figure1_pca_cumulative_variance.png` | PCA cumulative variance of substitution matrices. |
+| `lcr_across_encodings.png` | LCR values across different encodings. |
+| `tool-eoa-anagram-comparator-figure1.png` | Anagram comparison visualisation. |
+| `tool-eoa-sequence-to-json-builder-figure1.png` | JSON builder output. |
+| `tool-eoa-term-sequence-ratio-figure1.png` | Ratio convergence plot. |
+| `tool-index-eoa-vector-generator-figure1.png` | Vector generator visualisation. |
+
+All figures are stored in the `figures/` directory.
+
+---
+
+## Notebooks
+
+The `notebooks/` folder contains interactive Colab notebooks to reproduce the analyses and benchmark tools.
+
+---
 
 ## Citation
 
@@ -19,9 +44,13 @@ If you use any data from this repository, please cite the relevant EOA paper:
 - **EOA Program, Part 0:** [Link](https://github.com/bahaa-budargham/eoa-part0-paper)
 - **EOA-43 (Part I):** [Link](https://github.com/bahaa-budargham/eoa-part1-paper)
 
+---
+
 ## License
 
 All rights reserved. Access to files is granted for review or reference upon request. Reproduction, redistribution, or commercial use is prohibited without express permission.
+
+---
 
 ## Related Repositories
 
