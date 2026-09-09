@@ -28,6 +28,7 @@ This repository contains the datasets, figures, and supplementary materials for 
 | `tool-index-eoa-vector-generator-figure1.png` | **EOA Vector Generator Tool:** Processes bulk word lists—or preset corpora like wordfreq and NLTK—to output position-and-index weighted 43-term EOA vectors as a downloadable CSV. |
 
 All figures are stored in the `figures/` directory.
+
 ---
 
 ## Notebooks
